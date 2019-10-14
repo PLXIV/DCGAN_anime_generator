@@ -56,10 +56,11 @@ def main():
     danbooru_path = Path('/media/plxiv/AEF0C4B1F0C480D7/danbooru2018/512px/')
     dataset_dir = '../../dataset/'
     folder = '/media/plxiv/AEF0C4B1F0C480D7/danbooru2018/512px/' 
-    for subfolder in os.listdir(danbooru_path):
-        print(subfolder)
-        for filename in os.listdir(danbooru_path / subfolder):
-            f = folder + subfolder + '/'
+    for subfolder in range(200,999):
+        a = '0' + str(subfolder)
+        print(a)
+        for filename in os.listdir(danbooru_path / a):
+            f = folder + a + '/'
             detect(f, filename, dataset_dir)
 
 

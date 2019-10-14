@@ -1,0 +1,340 @@
+0 Discriminative. image loss: 0.583113 fake loss: 10.625756 generated loss: 0.361744
+1 Discriminative. image loss: 0.906537 fake loss: 0.724893 generated loss: 1.427417
+2 Discriminative. image loss: 0.680268 fake loss: 0.630226 generated loss: 1.263851
+3 Discriminative. image loss: 0.420659 fake loss: 0.318606 generated loss: 0.836916
+4 Discriminative. image loss: 0.469019 fake loss: 0.615268 generated loss: 2.020243
+5 Discriminative. image loss: 0.609308 fake loss: 0.681117 generated loss: 1.569936
+6 Discriminative. image loss: 0.445555 fake loss: 0.559269 generated loss: 0.792096
+7 Discriminative. image loss: 0.435058 fake loss: 0.342265 generated loss: 0.966528
+8 Discriminative. image loss: 0.403123 fake loss: 0.349942 generated loss: 1.093261
+9 Discriminative. image loss: 0.442884 fake loss: 0.422131 generated loss: 0.817255
+10 Discriminative. image loss: 0.361563 fake loss: 0.494439 generated loss: 3.385819
+11 Discriminative. image loss: 0.673023 fake loss: 0.586953 generated loss: 0.747906
+12 Discriminative. image loss: 0.946238 fake loss: 0.342166 generated loss: 0.390851
+13 Discriminative. image loss: 0.993444 fake loss: 0.369588 generated loss: 1.161258
+0 Discriminative. image loss: 0.803635 fake loss: 9.632200 generated loss: 0.377799
+1 Discriminative. image loss: 0.806452 fake loss: 0.800655 generated loss: 0.743508
+2 Discriminative. image loss: 0.620259 fake loss: 0.614806 generated loss: 0.342327
+3 Discriminative. image loss: 0.459350 fake loss: 0.338762 generated loss: 0.380212
+4 Discriminative. image loss: 0.365609 fake loss: 0.539949 generated loss: 1.591076
+5 Discriminative. image loss: 0.959117 fake loss: 0.340409 generated loss: 0.380457
+6 Discriminative. image loss: 0.891786 fake loss: 1.439933 generated loss: 6.760548
+7 Discriminative. image loss: 0.573781 fake loss: 1.224288 generated loss: 9.947891
+8 Discriminative. image loss: 0.731983 fake loss: 0.782455 generated loss: 3.950384
+9 Discriminative. image loss: 0.712770 fake loss: 0.447003 generated loss: 3.510956
+10 Discriminative. image loss: 0.543248 fake loss: 0.448171 generated loss: 2.998824
+11 Discriminative. image loss: 0.437179 fake loss: 0.539620 generated loss: 6.064060
+12 Discriminative. image loss: 0.544051 fake loss: 0.695288 generated loss: 4.154374
+13 Discriminative. image loss: 0.451801 fake loss: 0.333397 generated loss: 1.842846
+14 Discriminative. image loss: 0.422663 fake loss: 0.638330 generated loss: 7.706204
+15 Discriminative. image loss: 0.899449 fake loss: 0.748584 generated loss: 4.446107
+16 Discriminative. image loss: 0.773695 fake loss: 0.368145 generated loss: 2.963737
+17 Discriminative. image loss: 0.681975 fake loss: 0.353238 generated loss: 3.453570
+18 Discriminative. image loss: 0.527825 fake loss: 0.352981 generated loss: 2.811064
+19 Discriminative. image loss: 0.397946 fake loss: 1.015776 generated loss: 13.143936
+20 Discriminative. image loss: 2.910409 fake loss: 1.200091 generated loss: 8.841907
+21 Discriminative. image loss: 0.750596 fake loss: 0.506350 generated loss: 3.011799
+22 Discriminative. image loss: 0.924953 fake loss: 4.118517 generated loss: 11.125196
+23 Discriminative. image loss: 0.484557 fake loss: 1.629916 generated loss: 14.369677
+24 Discriminative. image loss: 1.757687 fake loss: 1.038947 generated loss: 7.275666
+25 Discriminative. image loss: 0.628618 fake loss: 0.599779 generated loss: 5.871592
+26 Discriminative. image loss: 0.541811 fake loss: 0.406787 generated loss: 4.788732
+27 Discriminative. image loss: 0.475225 fake loss: 1.433071 generated loss: 10.437420
+28 Discriminative. image loss: 1.004844 fake loss: 1.398601 generated loss: 9.587646
+29 Discriminative. image loss: 0.476428 fake loss: 0.796351 generated loss: 4.887020
+30 Discriminative. image loss: 0.530054 fake loss: 0.897019 generated loss: 4.976346
+31 Discriminative. image loss: 0.610294 fake loss: 0.390750 generated loss: 2.937031
+32 Discriminative. image loss: 0.497855 fake loss: 0.721996 generated loss: 5.258759
+33 Discriminative. image loss: 0.710873 fake loss: 0.463414 generated loss: 2.506980
+34 Discriminative. image loss: 0.495886 fake loss: 1.032146 generated loss: 4.816942
+35 Discriminative. image loss: 1.094394 fake loss: 0.370940 generated loss: 2.114285
+36 Discriminative. image loss: 0.432929 fake loss: 1.356699 generated loss: 5.746932
+37 Discriminative. image loss: 1.527481 fake loss: 0.473406 generated loss: 3.056127
+38 Discriminative. image loss: 0.542394 fake loss: 1.193934 generated loss: 4.400361
+39 Discriminative. image loss: 0.836050 fake loss: 0.427969 generated loss: 3.226823
+40 Discriminative. image loss: 0.680896 fake loss: 0.868427 generated loss: 3.389852
+41 Discriminative. image loss: 0.784587 fake loss: 0.448227 generated loss: 3.129355
+42 Discriminative. image loss: 0.432493 fake loss: 0.366349 generated loss: 2.889641
+43 Discriminative. image loss: 0.460218 fake loss: 0.451874 generated loss: 3.137225
+44 Discriminative. image loss: 0.526995 fake loss: 0.422794 generated loss: 3.153288
+45 Discriminative. image loss: 0.572093 fake loss: 0.419793 generated loss: 2.376612
+46 Discriminative. image loss: 0.448196 fake loss: 0.440811 generated loss: 2.966831
+47 Discriminative. image loss: 0.623048 fake loss: 0.613836 generated loss: 3.923387
+48 Discriminative. image loss: 0.761311 fake loss: 0.392162 generated loss: 2.270727
+49 Discriminative. image loss: 0.396091 fake loss: 0.461311 generated loss: 3.662181
+50 Discriminative. image loss: 0.534779 fake loss: 0.349162 generated loss: 2.322500
+51 Discriminative. image loss: 0.456646 fake loss: 0.617389 generated loss: 4.387750
+52 Discriminative. image loss: 0.743430 fake loss: 0.355010 generated loss: 1.729548
+53 Discriminative. image loss: 0.402849 fake loss: 0.800097 generated loss: 5.594676
+54 Discriminative. image loss: 1.051083 fake loss: 0.407159 generated loss: 2.197541
+55 Discriminative. image loss: 0.420286 fake loss: 0.686299 generated loss: 3.795235
+56 Discriminative. image loss: 0.452275 fake loss: 0.369469 generated loss: 2.799288
+57 Discriminative. image loss: 0.436517 fake loss: 0.648805 generated loss: 4.223865
+58 Discriminative. image loss: 0.796270 fake loss: 0.361589 generated loss: 1.596277
+59 Discriminative. image loss: 0.411454 fake loss: 0.786021 generated loss: 4.964008
+60 Discriminative. image loss: 0.732023 fake loss: 0.364305 generated loss: 1.800646
+61 Discriminative. image loss: 0.365509 fake loss: 1.258821 generated loss: 7.154804
+62 Discriminative. image loss: 1.805803 fake loss: 0.440019 generated loss: 1.873343
+63 Discriminative. image loss: 0.431182 fake loss: 1.412361 generated loss: 5.518045
+64 Discriminative. image loss: 0.772198 fake loss: 0.473457 generated loss: 3.445778
+65 Discriminative. image loss: 0.452263 fake loss: 0.629820 generated loss: 3.255928
+66 Discriminative. image loss: 0.489183 fake loss: 0.369323 generated loss: 2.631931
+67 Discriminative. image loss: 0.390743 fake loss: 0.409778 generated loss: 2.691920
+0 Image loss: 0.803635 Fake loss: 10.167751 Generated loss: 0.353364
+1 Image loss: 0.867525 Fake loss: 0.708269 Generated loss: 1.435517
+2 Image loss: 0.676576 Fake loss: 0.560222 Generated loss: 0.460936
+3 Image loss: 0.502467 Fake loss: 0.340063 Generated loss: 0.338783
+4 Image loss: 0.374766 Fake loss: 0.427823 Generated loss: 0.894897
+5 Image loss: 0.729182 Fake loss: 0.381617 Generated loss: 0.533157
+6 Image loss: 0.675703 Fake loss: 0.354436 Generated loss: 0.785439
+7 Image loss: 0.599978 Fake loss: 0.579146 Generated loss: 7.234506
+8 Image loss: 0.847436 Fake loss: 0.743961 Generated loss: 4.110807
+9 Image loss: 0.752850 Fake loss: 0.413532 Generated loss: 3.687366
+10 Image loss: 0.573439 Fake loss: 0.468342 Generated loss: 2.537771
+0 Image loss: 0.803635 Fake loss: 10.167751 Generated loss: 0.353364
+1 Image loss: 0.867525 Fake loss: 0.708269 Generated loss: 1.435517
+2 Image loss: 0.676576 Fake loss: 0.560222 Generated loss: 0.460936
+3 Image loss: 0.502467 Fake loss: 0.340063 Generated loss: 0.338783
+4 Image loss: 0.374766 Fake loss: 0.427823 Generated loss: 0.894897
+5 Image loss: 0.729182 Fake loss: 0.381617 Generated loss: 0.533157
+6 Image loss: 0.675703 Fake loss: 0.354436 Generated loss: 0.785439
+7 Image loss: 0.599978 Fake loss: 0.579146 Generated loss: 7.234506
+8 Image loss: 0.847436 Fake loss: 0.743961 Generated loss: 4.110807
+9 Image loss: 0.752850 Fake loss: 0.413532 Generated loss: 3.687366
+0 Image loss: 0.905575 Fake loss: 0.952247 Generated loss: 1.395435
+1 Image loss: 1.406907 Fake loss: 6.325830 Generated loss: 0.400158
+0 Image loss: 1.394217 Fake loss: 5.663104 Generated loss: 0.393607
+1 Image loss: 0.844150 Fake loss: 0.464257 Generated loss: 0.931097
+2 Image loss: 0.593350 Fake loss: 0.431287 Generated loss: 0.488274
+3 Image loss: 0.493038 Fake loss: 0.510447 Generated loss: 1.817394
+4 Image loss: 0.515159 Fake loss: 0.354011 Generated loss: 1.040982
+5 Image loss: 0.456866 Fake loss: 1.150358 Generated loss: 6.441059
+6 Image loss: 0.490994 Fake loss: 0.785903 Generated loss: 8.090059
+7 Image loss: 0.515979 Fake loss: 0.656676 Generated loss: 4.547537
+8 Image loss: 0.509761 Fake loss: 0.387371 Generated loss: 1.752306
+9 Image loss: 0.515631 Fake loss: 0.780669 Generated loss: 6.442534
+10 Image loss: 1.085888 Fake loss: 0.623970 Generated loss: 4.251942
+11 Image loss: 0.662660 Fake loss: 0.391640 Generated loss: 2.086015
+12 Image loss: 0.928813 Fake loss: 0.461737 Generated loss: 3.169281
+13 Image loss: 0.520276 Fake loss: 0.437294 Generated loss: 3.119813
+14 Image loss: 0.415797 Fake loss: 0.354306 Generated loss: 1.930180
+15 Image loss: 0.384037 Fake loss: 0.701815 Generated loss: 6.939326
+16 Image loss: 1.302943 Fake loss: 0.584813 Generated loss: 3.356657
+17 Image loss: 0.897002 Fake loss: 0.435048 Generated loss: 3.315721
+18 Image loss: 0.874630 Fake loss: 0.362982 Generated loss: 2.888617
+19 Image loss: 0.614624 Fake loss: 0.374562 Generated loss: 3.837057
+20 Image loss: 0.528272 Fake loss: 0.427249 Generated loss: 2.817782
+21 Image loss: 0.422642 Fake loss: 0.609709 Generated loss: 8.159293
+22 Image loss: 1.293678 Fake loss: 0.667233 Generated loss: 3.337899
+23 Image loss: 0.693317 Fake loss: 0.873034 Generated loss: 8.743351
+24 Image loss: 0.488108 Fake loss: 1.226269 Generated loss: 11.083755
+25 Image loss: 0.624758 Fake loss: 0.785825 Generated loss: 6.045287
+26 Image loss: 0.458066 Fake loss: 0.401501 Generated loss: 3.677711
+27 Image loss: 0.448089 Fake loss: 0.503177 Generated loss: 7.274227
+28 Image loss: 0.764677 Fake loss: 0.602071 Generated loss: 4.357472
+29 Image loss: 0.453348 Fake loss: 0.503318 Generated loss: 5.228090
+30 Image loss: 0.404220 Fake loss: 0.533863 Generated loss: 4.155128
+31 Image loss: 0.439506 Fake loss: 0.476511 Generated loss: 4.490858
+32 Image loss: 0.667479 Fake loss: 0.418563 Generated loss: 3.228520
+33 Image loss: 0.451098 Fake loss: 0.373264 Generated loss: 3.543062
+34 Image loss: 0.371774 Fake loss: 0.406250 Generated loss: 2.644818
+35 Image loss: 0.416677 Fake loss: 0.969882 Generated loss: 7.608756
+36 Image loss: 0.709964 Fake loss: 0.680178 Generated loss: 5.385774
+37 Image loss: 0.556257 Fake loss: 0.572976 Generated loss: 3.490321
+38 Image loss: 0.693992 Fake loss: 0.390213 Generated loss: 0.984393
+39 Image loss: 0.391359 Fake loss: 0.476620 Generated loss: 2.493085
+40 Image loss: 0.534347 Fake loss: 0.341292 Generated loss: 0.810655
+41 Image loss: 0.414702 Fake loss: 0.904162 Generated loss: 6.971805
+42 Image loss: 1.918978 Fake loss: 0.453506 Generated loss: 1.146716
+43 Image loss: 0.552059 Fake loss: 2.334507 Generated loss: 4.275468
+44 Image loss: 0.626048 Fake loss: 0.440461 Generated loss: 4.253924
+45 Image loss: 0.830888 Fake loss: 0.858267 Generated loss: 3.046831
+46 Image loss: 0.458231 Fake loss: 0.449465 Generated loss: 2.716817
+47 Image loss: 0.499108 Fake loss: 0.442575 Generated loss: 2.619424
+48 Image loss: 0.511990 Fake loss: 0.417749 Generated loss: 2.776219
+49 Image loss: 0.474867 Fake loss: 0.496164 Generated loss: 3.647751
+50 Image loss: 0.561968 Fake loss: 0.370652 Generated loss: 2.587436
+51 Image loss: 0.425301 Fake loss: 0.476059 Generated loss: 2.890949
+52 Image loss: 0.387752 Fake loss: 0.379883 Generated loss: 2.283567
+53 Image loss: 0.406532 Fake loss: 0.420446 Generated loss: 2.996515
+54 Image loss: 0.564710 Fake loss: 0.409517 Generated loss: 1.882248
+55 Image loss: 0.395281 Fake loss: 0.432738 Generated loss: 2.858302
+56 Image loss: 0.455058 Fake loss: 0.385332 Generated loss: 2.026121
+57 Image loss: 0.409928 Fake loss: 0.648935 Generated loss: 4.166537
+58 Image loss: 1.097895 Fake loss: 0.534535 Generated loss: 2.420448
+59 Image loss: 0.429642 Fake loss: 0.409534 Generated loss: 2.977186
+0 Image loss: 0.394596 Fake loss: 0.507562 Generated loss: 3.180996
+0 Image loss: 0.803635 Fake loss: 10.167751 Generated loss: 0.353364
+1 Image loss: 0.867525 Fake loss: 0.708269 Generated loss: 1.435517
+2 Image loss: 0.676576 Fake loss: 0.560222 Generated loss: 0.460936
+3 Image loss: 0.502467 Fake loss: 0.340583 Generated loss: 0.339515
+4 Image loss: 0.374469 Fake loss: 0.419148 Generated loss: 0.828341
+5 Image loss: 0.707348 Fake loss: 0.390061 Generated loss: 0.605246
+6 Image loss: 0.657116 Fake loss: 0.364279 Generated loss: 0.651548
+7 Image loss: 0.592102 Fake loss: 0.808874 Generated loss: 8.688128
+8 Image loss: 1.186221 Fake loss: 0.896039 Generated loss: 5.816110
+9 Image loss: 0.797507 Fake loss: 0.341614 Generated loss: 1.452747
+0 Image loss: 0.803635 Fake loss: 10.167751 Generated loss: 0.353364
+1 Image loss: 0.867525 Fake loss: 0.708269 Generated loss: 1.435517
+2 Image loss: 0.676576 Fake loss: 0.560222 Generated loss: 0.460936
+3 Image loss: 0.502467 Fake loss: 0.340063 Generated loss: 0.338783
+4 Image loss: 0.374766 Fake loss: 0.427823 Generated loss: 0.894897
+5 Image loss: 0.729182 Fake loss: 0.381617 Generated loss: 0.533157
+6 Image loss: 0.675703 Fake loss: 0.354436 Generated loss: 0.785439
+7 Image loss: 0.599978 Fake loss: 0.579146 Generated loss: 7.234506
+8 Image loss: 0.847436 Fake loss: 0.743961 Generated loss: 4.110807
+9 Image loss: 0.752850 Fake loss: 0.413532 Generated loss: 3.687366
+10 Image loss: 0.573439 Fake loss: 0.468342 Generated loss: 2.537771
+11 Image loss: 0.438452 Fake loss: 0.687909 Generated loss: 8.181595
+12 Image loss: 0.918223 Fake loss: 0.848179 Generated loss: 4.886267
+13 Image loss: 0.770443 Fake loss: 0.334920 Generated loss: 1.586514
+14 Image loss: 0.757602 Fake loss: 0.914791 Generated loss: 9.052746
+0 Image loss: 0.803302 Fake loss: 10.160945 Generated loss: 0.339642
+1 Image loss: 0.967613 Fake loss: 0.674280 Generated loss: 1.444931
+2 Image loss: 0.679665 Fake loss: 0.584870 Generated loss: 0.473640
+3 Image loss: 0.510159 Fake loss: 0.320903 Generated loss: 0.357733
+4 Image loss: 0.363686 Fake loss: 0.573016 Generated loss: 1.590047
+5 Image loss: 0.881619 Fake loss: 0.355278 Generated loss: 0.391197
+6 Image loss: 0.785258 Fake loss: 1.680997 Generated loss: 7.147264
+7 Image loss: 0.520388 Fake loss: 1.215801 Generated loss: 10.027974
+8 Image loss: 0.558187 Fake loss: 0.794938 Generated loss: 4.678381
+9 Image loss: 0.537907 Fake loss: 0.347986 Generated loss: 2.176073
+10 Image loss: 0.515386 Fake loss: 0.475204 Generated loss: 5.737738
+11 Image loss: 0.597975 Fake loss: 0.530514 Generated loss: 3.135030
+0 Image loss: 0.803302 Fake loss: 10.160945 Generated loss: 0.339642
+1 Image loss: 0.967613 Fake loss: 0.674280 Generated loss: 1.444931
+2 Image loss: 0.679665 Fake loss: 0.584870 Generated loss: 0.473640
+3 Image loss: 0.510159 Fake loss: 0.320903 Generated loss: 0.357809
+4 Image loss: 0.364229 Fake loss: 0.561987 Generated loss: 1.550523
+5 Image loss: 0.882303 Fake loss: 0.349644 Generated loss: 0.391146
+0 Image loss: 0.806243 Fake loss: 0.385289 Generated loss: 0.422591
+1 Image loss: 0.649482 Fake loss: 5.417949 Generated loss: 0.906121
+2 Image loss: 0.499269 Fake loss: 0.388083 Generated loss: 3.870378
+3 Image loss: 0.419639 Fake loss: 0.380289 Generated loss: 2.015814
+4 Image loss: 0.393467 Fake loss: 0.942124 Generated loss: 5.741982
+5 Image loss: 0.700386 Fake loss: 0.621157 Generated loss: 5.119320
+6 Image loss: 0.523954 Fake loss: 0.442239 Generated loss: 2.358730
+7 Image loss: 0.549056 Fake loss: 0.522880 Generated loss: 3.792466
+8 Image loss: 0.419112 Fake loss: 0.500395 Generated loss: 3.371753
+9 Image loss: 0.417289 Fake loss: 0.388271 Generated loss: 2.981678
+0 Image loss: 0.803302 Fake loss: 10.160945 Generated loss: 0.339642
+0 Image loss: 0.803302 Fake loss: 10.160945 Generated loss: 0.342045
+0 Image loss: 0.554485 Fake loss: 1.170649 Generated loss: 2.389020
+1 Image loss: 0.371071 Fake loss: 0.372958 Generated loss: 3.255627
+2 Image loss: 0.441565 Fake loss: 0.354037 Generated loss: 1.902159
+3 Image loss: 0.357943 Fake loss: 0.472778 Generated loss: 2.913943
+4 Image loss: 0.498462 Fake loss: 0.375985 Generated loss: 2.263438
+5 Image loss: 0.372393 Fake loss: 0.359955 Generated loss: 2.475377
+6 Image loss: 0.400352 Fake loss: 0.375845 Generated loss: 2.559193
+7 Image loss: 0.382653 Fake loss: 0.352489 Generated loss: 2.083904
+8 Image loss: 0.393144 Fake loss: 0.381953 Generated loss: 3.126606
+9 Image loss: 0.471195 Fake loss: 0.398569 Generated loss: 3.053245
+10 Image loss: 0.361823 Fake loss: 0.393080 Generated loss: 2.183694
+11 Image loss: 0.358893 Fake loss: 0.470584 Generated loss: 4.512414
+12 Image loss: 0.912930 Fake loss: 0.563726 Generated loss: 3.191490
+13 Image loss: 0.451905 Fake loss: 0.459237 Generated loss: 3.760296
+14 Image loss: 0.401394 Fake loss: 0.352344 Generated loss: 1.994292
+15 Image loss: 0.390855 Fake loss: 0.390318 Generated loss: 3.172764
+16 Image loss: 0.507967 Fake loss: 0.400299 Generated loss: 2.263750
+17 Image loss: 0.398816 Fake loss: 0.327561 Generated loss: 2.600678
+18 Image loss: 0.358240 Fake loss: 0.371583 Generated loss: 2.900944
+19 Image loss: 0.416475 Fake loss: 0.430958 Generated loss: 4.008587
+20 Image loss: 0.432773 Fake loss: 0.357151 Generated loss: 1.875615
+21 Image loss: 0.441171 Fake loss: 0.437317 Generated loss: 4.307302
+22 Image loss: 0.615787 Fake loss: 0.378361 Generated loss: 2.461066
+23 Image loss: 0.462235 Fake loss: 0.349832 Generated loss: 2.626842
+24 Image loss: 0.380902 Fake loss: 0.403339 Generated loss: 3.330130
+25 Image loss: 0.421869 Fake loss: 0.350429 Generated loss: 2.083891
+26 Image loss: 0.415635 Fake loss: 0.332406 Generated loss: 2.771493
+27 Image loss: 0.393063 Fake loss: 0.405157 Generated loss: 3.943122
+28 Image loss: 0.406222 Fake loss: 0.365782 Generated loss: 1.556859
+29 Image loss: 0.416239 Fake loss: 0.586141 Generated loss: 6.477215
+30 Image loss: 1.271629 Fake loss: 0.352972 Generated loss: 0.984952
+31 Image loss: 0.907917 Fake loss: 1.044350 Generated loss: 5.697247
+32 Image loss: 0.371952 Fake loss: 0.783121 Generated loss: 6.761194
+33 Image loss: 1.044211 Fake loss: 0.340618 Generated loss: 0.681675
+34 Image loss: 0.728721 Fake loss: 1.375698 Generated loss: 4.310118
+35 Image loss: 0.367169 Fake loss: 0.616030 Generated loss: 5.762278
+36 Image loss: 0.901459 Fake loss: 0.359904 Generated loss: 1.501325
+37 Image loss: 0.520538 Fake loss: 1.101556 Generated loss: 4.881280
+38 Image loss: 0.662798 Fake loss: 0.487489 Generated loss: 4.285611
+39 Image loss: 0.389364 Fake loss: 0.346722 Generated loss: 2.110829
+40 Image loss: 0.393868 Fake loss: 0.439324 Generated loss: 2.645936
+41 Image loss: 0.366660 Fake loss: 0.332938 Generated loss: 2.465339
+42 Image loss: 0.376960 Fake loss: 0.448739 Generated loss: 2.582070
+43 Image loss: 0.411338 Fake loss: 0.370053 Generated loss: 2.401653
+44 Image loss: 0.393360 Fake loss: 0.433954 Generated loss: 3.336177
+45 Image loss: 0.507806 Fake loss: 0.383106 Generated loss: 2.714674
+46 Image loss: 0.369415 Fake loss: 0.351229 Generated loss: 2.940529
+47 Image loss: 0.387980 Fake loss: 0.390769 Generated loss: 3.234060
+48 Image loss: 0.406747 Fake loss: 0.345341 Generated loss: 2.375419
+49 Image loss: 0.367086 Fake loss: 0.351434 Generated loss: 3.136011
+50 Image loss: 0.395027 Fake loss: 0.358850 Generated loss: 2.868530
+51 Image loss: 0.350973 Fake loss: 0.342505 Generated loss: 2.575246
+52 Image loss: 0.368055 Fake loss: 0.406968 Generated loss: 4.386151
+53 Image loss: 0.608627 Fake loss: 0.372226 Generated loss: 2.234135
+54 Image loss: 0.525607 Fake loss: 0.352574 Generated loss: 2.906538
+55 Image loss: 0.357159 Fake loss: 0.331967 Generated loss: 2.384091
+56 Image loss: 0.396745 Fake loss: 0.480987 Generated loss: 4.130219
+57 Image loss: 0.588188 Fake loss: 0.340910 Generated loss: 1.355179
+58 Image loss: 0.500087 Fake loss: 0.450598 Generated loss: 4.138053
+59 Image loss: 0.403826 Fake loss: 0.478229 Generated loss: 3.133831
+60 Image loss: 0.359722 Fake loss: 0.366983 Generated loss: 1.642113
+0 Image loss: 0.385685 Fake loss: 0.462733 Generated loss: 1.858052
+1 Image loss: 0.719799 Fake loss: 2.430783 Generated loss: 0.912401
+2 Image loss: 0.346959 Fake loss: 0.404578 Generated loss: 2.518138
+3 Image loss: 0.662979 Fake loss: 0.393443 Generated loss: 1.648247
+4 Image loss: 0.361212 Fake loss: 0.504108 Generated loss: 2.340947
+5 Image loss: 0.424504 Fake loss: 0.336553 Generated loss: 2.035148
+6 Image loss: 0.391485 Fake loss: 0.448421 Generated loss: 2.405966
+7 Image loss: 0.409900 Fake loss: 0.350959 Generated loss: 1.975830
+8 Image loss: 0.384898 Fake loss: 0.407331 Generated loss: 2.626197
+9 Image loss: 0.424200 Fake loss: 0.335427 Generated loss: 2.038776
+10 Image loss: 0.355779 Fake loss: 0.407628 Generated loss: 3.142137
+11 Image loss: 0.507903 Fake loss: 0.408247 Generated loss: 2.773585
+12 Image loss: 0.368795 Fake loss: 0.355934 Generated loss: 2.419600
+13 Image loss: 0.371616 Fake loss: 0.401972 Generated loss: 3.306758
+14 Image loss: 0.518396 Fake loss: 0.434376 Generated loss: 3.052059
+15 Image loss: 0.368907 Fake loss: 0.386777 Generated loss: 2.732828
+16 Image loss: 0.376597 Fake loss: 0.373658 Generated loss: 2.540604
+17 Image loss: 0.389566 Fake loss: 0.328044 Generated loss: 2.478308
+18 Image loss: 0.356717 Fake loss: 0.359824 Generated loss: 2.738133
+19 Image loss: 0.394652 Fake loss: 0.433980 Generated loss: 4.582513
+20 Image loss: 0.544497 Fake loss: 0.341937 Generated loss: 1.814822
+21 Image loss: 0.563861 Fake loss: 0.383279 Generated loss: 4.354683
+22 Image loss: 0.452625 Fake loss: 0.372033 Generated loss: 2.493896
+23 Image loss: 0.400196 Fake loss: 0.340342 Generated loss: 3.182337
+24 Image loss: 0.427095 Fake loss: 0.459953 Generated loss: 4.281613
+25 Image loss: 0.403496 Fake loss: 0.430961 Generated loss: 2.292370
+26 Image loss: 0.471879 Fake loss: 0.370898 Generated loss: 3.103194
+27 Image loss: 0.421265 Fake loss: 0.357884 Generated loss: 2.397248
+28 Image loss: 0.355989 Fake loss: 0.339318 Generated loss: 2.212276
+29 Image loss: 0.355286 Fake loss: 0.467545 Generated loss: 4.879947
+30 Image loss: 0.750378 Fake loss: 0.455457 Generated loss: 3.331667
+31 Image loss: 0.576735 Fake loss: 0.478402 Generated loss: 3.475698
+32 Image loss: 0.404346 Fake loss: 0.364911 Generated loss: 2.833137
+33 Image loss: 0.368201 Fake loss: 0.419256 Generated loss: 4.338357
+34 Image loss: 0.643395 Fake loss: 0.444267 Generated loss: 3.637620
+35 Image loss: 0.391030 Fake loss: 0.472743 Generated loss: 3.464888
+36 Image loss: 0.363800 Fake loss: 0.341296 Generated loss: 1.826127
+37 Image loss: 0.360040 Fake loss: 0.395080 Generated loss: 3.070771
+38 Image loss: 0.466117 Fake loss: 0.345384 Generated loss: 1.931374
+39 Image loss: 0.375054 Fake loss: 0.346097 Generated loss: 3.489696
+40 Image loss: 0.425183 Fake loss: 0.417894 Generated loss: 4.037230
+41 Image loss: 0.422289 Fake loss: 0.341548 Generated loss: 1.968835
+0 Image loss: 0.340894 Fake loss: 0.383759 Generated loss: 3.201520
+1 Image loss: 0.446046 Fake loss: 0.353152 Generated loss: 1.365682
+0 Image loss: 3.716526 Fake loss: 0.331884 Generated loss: 1.778591
+1 Image loss: 2.904365 Fake loss: 1.419553 Generated loss: 1.035757
+2 Image loss: 2.430953 Fake loss: 1.259210 Generated loss: 1.260872
+0 Image loss: 3.315312 Fake loss: 1.512915 Generated loss: 0.379611
+0 Image loss: 3.617774 Fake loss: 2.446998 Generated loss: 0.353992
+1 Image loss: 0.422580 Fake loss: 2.875423 Generated loss: 0.599785
+2 Image loss: 0.542547 Fake loss: 0.996638 Generated loss: 1.659362
+0 Image loss: 2.786544 Fake loss: 2.439801 Generated loss: 0.372926
+1 Image loss: 0.393832 Fake loss: 2.744182 Generated loss: 0.526224
+2 Image loss: 0.510948 Fake loss: 0.829433 Generated loss: 1.541060
+0 Image loss: 0.362621 Fake loss: 2.153110 Generated loss: 1.721043
+1 Image loss: 0.363489 Fake loss: 0.599345 Generated loss: 3.117599
+2 Image loss: 0.781987 Fake loss: 0.459863 Generated loss: 1.836675
+3 Image loss: 0.399375 Fake loss: 0.511433 Generated loss: 2.270741
