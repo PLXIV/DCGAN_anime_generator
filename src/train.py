@@ -40,11 +40,11 @@ def gen_noise(batch_size, noise_shape):
     return np.random.normal(0, 1, size=(batch_size,) + noise_shape)
 
 def visualize_generation(img_batch, img_save_dir):
-    plt.figure(figsize=(4, 4))
-    gs1 = gridspec.GridSpec(4, 4)
+    plt.figure(figsize=(8, 8))
+    gs1 = gridspec.GridSpec(8, 8)
     gs1.update(wspace=0, hspace=0)
-    rand_indices = np.random.choice(img_batch.shape[0], 16, replace=False)
-    for i in range(16):
+    rand_indices = np.random.choice(img_batch.shape[0], 64, replace=False)
+    for i in range(64):
         ax1 = plt.subplot(gs1[i])
         ax1.set_aspect('equal')
         rand_index = rand_indices[i]
